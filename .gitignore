@@ -1,0 +1,8 @@
+.vagrant
+.idea
+
+vendor
+phptestfest-php-src
+php-src
+
+Homestead.yaml
