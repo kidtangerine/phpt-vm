@@ -14,5 +14,5 @@
 
 * `cd /home/vagrant/php/phptestfest-php-src`
 * `./configure`
-* `make`
+* `make -j5`
 * `sapi/cli/php --version`
